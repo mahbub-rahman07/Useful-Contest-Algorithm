@@ -18,9 +18,9 @@ using namespace std;
 /*******************************************************************\
 |                       Md.Mahbubur Rahman                          |
 |   	BANGLADESH UNIVERSITY OF BUSINESS & TECHNOLOGY(BUBT)	    |
-|		 	    Deptartment of  CSE							        |
+|		 	    Deptartment of  CSE			    |
 |    uva:mahbub07||devskil: mahbub07||codefoces:MAHBUBUR_RAHMAN     |
-|                mail:mahbubabid8@gmail.com				            |
+|                mail:mahbubabid8@gmail.com			    |
 \*******************************************************************/
 
 typedef long long ll;
